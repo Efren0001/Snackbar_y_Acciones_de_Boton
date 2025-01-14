@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.Snackbar_y_Acciones_de_Boton" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
